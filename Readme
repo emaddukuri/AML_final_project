@@ -1,0 +1,6 @@
+First we need to load the data file(Housedata.csv) using pandas
+clean the csv file( if any null values are present remove that values)
+select the feature (SalePrice as target feature and remaining as input(independent variables))
+Split the data 
+Train the using Ridge, Elastic net and Bayesian regression techniues.
+Then find the R2 and Mean absolute percentage error.
